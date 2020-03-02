@@ -1,6 +1,6 @@
 # Pong - An interactive demo
 
-![Main Menu](Images\example_pong.png)
+![Main Menu](Images/example_pong.png)
 
 ## Overview
 
@@ -26,7 +26,7 @@ cl.exe /Zi /EHsc /Fe: "Pong.exe" "Pong.cpp"
 
 ### Game Modes
 
-![Main Menu](Images\Main-Menu.JPG)
+![Main Menu](Images/Main-Menu.JPG)
 
 The game has serval modes you can play. These are selected from the starting menu using the suggested keys. Each mode offers a unique playing experience from multiplayer to various computer based games. Below is the list of modes and a brief of how they operate.
 
@@ -40,7 +40,7 @@ You can quit the game from the main menu by hitting __`ESC`__ or by closing the 
 
 ### Game Start and Controls
 
-![PVP](Images\PVP.JPG)
+![PVP](Images/PVP.JPG)
 
 Player 1 is to the left of the screen, while Player 2 is to the right. To move player 1, you need to press __`W`__ to go up and __`S`__ to go down, while Player 2 uses the __`UP ARROW`__ to go up and the __`DOWN ARROW`__ to go down. When playing against the computer in any computer based game mode, the player will be player one on the left of the screen.
 
@@ -50,7 +50,7 @@ During the play of the game you can press __`P`__ to pause play where it is or _
 
 ### Scoring points
 
-![PVP](Images\End.JPG)
+![PVP](Images/End.JPG)
 
 In all modes except survival the aim is to hit the ball back towards your opponent and prevent it from hitting the wall behind you. To score a point, all you 1need to do is hit the ball past the other player into their the end zone. When a player or the computer has reached __5 points__ the game is won and the winner screen is shown.
 
