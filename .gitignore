@@ -33,3 +33,6 @@
 # others
 *.pdb
 *.ilk
+
+# ignore vscode folder
+.vscode
